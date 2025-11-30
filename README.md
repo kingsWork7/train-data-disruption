@@ -101,7 +101,7 @@ cd YOUR_REPO
 
   * Right‑click → **Open with Live Server**
 
-* Via **Netlify** with this link : train-disruption.netlify.app/
+* Via **Netlify** with this link : [train-disruption.netlify.app/](https://train-disruption.netlify.app/)
 
 ---
 
